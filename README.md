@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github.com/alanwunsche/bio
+https://github.com/alanwunsche/about
 
 <!--
 **alanwunsche/alanwunsche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
